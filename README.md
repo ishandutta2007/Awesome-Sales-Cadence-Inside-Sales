@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="wAwesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discor&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales?style=flat&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales?style=flat&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales?style=flat&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Cadence-Inside-Sales/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,7 +61,7 @@ Below is a detailed comparison of top commercial Sales Cadence and Sales Engagem
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is the curated list of self-hosted, open-source Sales Cadence, B2B lead generation, and sequence platforms, strictly sorted in **descending order by GitHub Star Count**.
+Below is the curated list of self-hosted, open-source Sales Cadence, B2B lead generation, and sequence platforms, strictly sorted in **descending order by GitHub Stars_Count**.
 
 - **[OpenOutreach](https://github.com/eracle/OpenOutreach)** [![Stars](https://img.shields.io/github/stars/eracle/OpenOutreach?style=social&color=white)](https://github.com/eracle/OpenOutreach/stargazers)  
   ⚡ **Open-source AI agent for B2B lead generation & email outreach** — Describe your product, find matching target personas, analyze buyer intent, and execute personalized cold email sequences automatically from your mailbox. Includes a single-command CLI installer. **Best for AI-driven lead discovery and autonomous cold outreach**.
@@ -127,7 +127,7 @@ Contributions to this ecosystem directory are warmly welcome! Please follow thes
 2. **Create a Feature Branch**: `git checkout -b add-new-sales-tool`
 3. **Format Your Entry**:
    - For **SaaS**: Add to the SaaS table with verified pricing, free tier/trial details, company size/valuation, and key use case.
-   - For **Open-Source**: Include repository link, star badge (`[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`), exact star count positioning (keep descending order), and 1–2 sentence description.
+   - For **Open-Source**: Include repository link, Stars_Badge (`[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`), exact Stars_Count positioning (keep descending order), and 1–2 sentence description.
 4. **Submit a Pull Request**: Provide a concise summary of the added/updated sales tool.
 
 ---
